@@ -7,7 +7,8 @@ This project analyzes a rich dataset provided by Professor [Chris Brooks](https:
 ## **Project Objectives**
 - Explore and analyze exercise data to identify trends and patterns.
 - Compare physiological metrics (e.g., heart rate, cadence, speed) across activities like running and cycling.
-- Create visualizations to effectively communicate findings.
+- Investigate messy data, extract patterns, and determine when Professor Brooks was cycling or running, along with his exercise habits.
+- Create visualizations to effectively communicate findings using advanced techniques like subplots, annotations, shading, and interactive maps.
 - Deliver a dashboard that provides actionable insights into Professor Brooks' fitness journey.
 
 ---
