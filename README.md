@@ -1,15 +1,15 @@
 # **Exercise Data Analysis and Visualization**
 
-This project analyzes a rich dataset provided by Professor [Chris Brooks](https://www.si.umich.edu/people/christopher-brooks), who began tracking his exercise activities during the summer of 2019. The dataset includes detailed metrics collected from devices such as heart rate monitors, watches, and bicycles, and was shared via the social platform [Strava](https://www.strava.com/). The goal of this project is to uncover meaningful insights about his exercise patterns and provide a compelling narrative supported by visualizations.
+This project analyzes a rich dataset provided by a Professor who began tracking his exercise activities during the summer of 2019. The dataset includes detailed metrics collected from devices such as heart rate monitors, watches, and bicycles, and was shared via the social platform [Strava](https://www.strava.com/). The goal of this project is to uncover meaningful insights about his exercise patterns and provide a compelling narrative supported by visualizations.
 
 ---
 
 ## **Project Objectives**
 - Explore and analyze exercise data to identify trends and patterns.
 - Compare physiological metrics (e.g., heart rate, cadence, speed) across activities like running and cycling.
-- Investigate messy data, extract patterns, and determine when Professor Brooks was cycling or running, along with his exercise habits.
+- Investigate messy data, extract patterns, and determine when Professor was cycling or running, along with his exercise habits.
 - Create visualizations to effectively communicate findings using advanced techniques like subplots, annotations, shading, and interactive maps.
-- Deliver a dashboard that provides actionable insights into Professor Brooks' fitness journey.
+- Deliver a dashboard that provides actionable insights into Professors' fitness journey.
 
 ---
 
