@@ -56,7 +56,7 @@ The dataset includes:
 
 2. Install required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pip install pandas numpy seaborn matplotlib folium
    ```
 
 3. Open the Jupyter Notebook:
