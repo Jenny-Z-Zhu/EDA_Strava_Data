@@ -69,10 +69,5 @@ The dataset includes:
 
 ---
 
-## **Acknowledgments**
-Special thanks to Professor [Chris Brooks](https://www.si.umich.edu/people/christopher-brooks) for providing the dataset and inspiring this analysis.
-
----
-
 ## **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
