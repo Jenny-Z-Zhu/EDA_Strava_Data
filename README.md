@@ -47,24 +47,6 @@ The project includes the following visualizations:
 
 ---
 
-## **How to Run**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/exercise-data-analysis.git
-   cd exercise-data-analysis
-   ```
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Assignment4-Zhiqi-Zhu.ipynb
-   ```
-4. Run the cells to generate visualizations and insights.
-
----
-
 ## **Insights**
 - **Running**: Metrics like cadence and speed are tightly correlated, reflecting consistent effort and movement patterns.
 - **Cycling**: Shows more variability due to coasting and terrain changes, with longer distances and higher speeds.
